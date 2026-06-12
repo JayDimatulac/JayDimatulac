@@ -1,124 +1,184 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&duration=3000&pause=1000&color=4f35e8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jay.;Computer+Science+Student.;Building+things+to+understand+them." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4f35e8&height=200&section=header&text=Hey,%20I'm%20Jay%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20·%20Builder%20·%20Lifelong%20Learner&descAlignY=58&descSize=18&descColor=d4cfff" width="100%"/>
 
-### Computer Science Student · Full-Stack Developer in Progress
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4f35e8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+Progress+🚀;Backend+%26+AI+Enthusiast+🤖;Building+things+to+understand+them+🔨;One+commit+at+a+time+📦)](https://git.io/typing-svg)
 
-*Building things to understand them. Improving every day.*
+<br/>
 
----
-
-[![GitHub followers](https://img.shields.io/github/followers/JayDimatulac?label=Followers&style=flat-square&color=4f35e8&labelColor=0d0d0d)](https://github.com/JayDimatulac)
-[![Profile views](https://komarev.com/ghpvc/?username=JayDimatulac&style=flat-square&color=4f35e8&label=Profile+Views)](https://github.com/JayDimatulac)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=4f35e8&labelColor=1a1a2e&logo=github)](https://github.com/yourusername)
+[![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=4f35e8&label=Profile+Views&labelColor=1a1a2e)](https://github.com/yourusername)
 
 </div>
 
----
-
-## About Me
-
-I'm a third-year Computer Science student at Batangas State University, currently on semester break and spending most of it writing code.
-
-I don't claim expertise. What I do have is genuine curiosity, a tolerance for debugging things until they make sense, and a habit of learning best by building things that actually work.
-
-Right now I'm focused on full-stack development and AI integration — specifically through a project called **SKILLabUs**, which has taught me more about software engineering in practice than any textbook.
-
-```
-Location  →  Philippines
-Focus     →  Full-Stack · Backend · AI Integration
-Status    →  Building, studying, and breaking things intentionally
-```
-
-
+<br/>
 
 ---
 
-## Currently Learning
+## 🧑‍💻 About Me
 
-These are subjects I'm actively studying — not claiming to have mastered.
+```ts
+const jay = {
+  school    : "Batangas State University",
+  year      : "3rd Year Computer Science",
+  location  : "Philippines 🇵🇭",
+  focus     : ["Full-Stack", "Backend", "AI Integration"],
+  status    : "Building, studying, and breaking things intentionally 🔨",
+  motto     : "Get better than yesterday — every single day."
+};
+```
 
-| Category | Topics |
+> I don't claim expertise. What I have is genuine curiosity, a tolerance for debugging until things make sense, and a habit of learning best by actually building stuff.
+
+---
+
+## 🚀 Currently Learning
+
+<div align="center">
+
+| 🧠 Category | 📚 Topics |
 |---|---|
-| **Languages** | C#, JavaScript, HTML, CSS, SQL |
-| **Frameworks & Tools** | ASP.NET Core, Entity Framework Core, React |
-| **Concepts** | REST APIs, Clean Architecture, CQRS, Database Design |
-| **Engineering** | System Analysis, UML, Git & GitHub, Software Engineering |
-| **Emerging** | AI Integration, UI/UX Design |
-
----
-
-## Interests
-
-```
-→  Backend Systems & API Design
-→  Full-Stack Web Development
-→  AI-assisted Software
-→  Educational Technology
-→  Clean Code & System Design
-→  Building tools with real-world utility
-→  Continuous improvement
-```
-
----
-
-## Goals
-
-**Right now**
-- Finish and polish SKILLabUs
-- Deepen backend development knowledge
-- Build a portfolio that reflects real work
-- Get more comfortable with system design
-
-**Long term**
-- Become a capable, employable software engineer
-- Contribute to meaningful projects
-- Keep learning — this career never stops changing
-
----
-
-## Learning Philosophy
-
-I learn by building things, breaking them, and figuring out why.
-
-I believe in:
-- Understanding concepts rather than memorizing syntax
-- Writing code I can read again in three months
-- Accepting that confusion is part of the process
-- Documenting progress, even the messy parts
-- Improving incrementally — not waiting until I feel "ready"
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&title_color=4f35e8&icon_color=4f35e8&text_color=ffffff&bg_color=0d0d0d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true&title_color=4f35e8&text_color=ffffff&bg_color=0d0d0d)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=transparent&hide_border=true&ring=4f35e8&fire=4f35e8&currStreakLabel=4f35e8)
+| **Languages** | C# · JavaScript · HTML · CSS · SQL |
+| **Frameworks & Tools** | ASP.NET Core · Entity Framework Core · React |
+| **Concepts** | REST APIs · Clean Architecture · CQRS · Database Design |
+| **Engineering** | System Analysis · UML · Git & GitHub · Software Engineering |
+| **Emerging** | AI Integration · UI/UX Design |
 
 </div>
 
 ---
 
-## Projects
-
-| Project | Description | Status |
-|---|---|---|
-| [SKILLabUs](https://github.com/yourusername/skillabus) | AI-powered Learning Management System | 🔨 In Development |
-| *More coming soon* | | |
-
----
-
-## Contact
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-youremail@gmail.com-4f35e8?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Tools & Platforms**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+</div>
+
+---
+
+## 💡 Interests
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| 🔧 Backend Systems & API Design | 🌐 Full-Stack Web Development |
+| 🤖 AI-assisted Software | 📚 Educational Technology |
+| 🧹 Clean Code & System Design | 🛠️ Building real-world tools |
+| 📈 Continuous Improvement | 🎨 UI/UX Design |
+
+</div>
+
+---
+
+## 🎯 Goals
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ Right Now
+- 📦 Build a portfolio that reflects real work
+- 🧠 Deepen backend development knowledge
+- 🏗️ Get more comfortable with system design
+- 📘 Strengthen fundamentals, not just ship code
+
+</td>
+<td width="50%">
+
+### 🌱 Long Term
+- 💼 Become a capable, employable software engineer
+- 🤝 Contribute to meaningful projects
+- 🚀 Build useful applications that help people
+- 📖 Keep learning — this field never stops changing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Learning Philosophy
+
+<div align="center">
+
+> *"I learn by building things, breaking them, and figuring out why."*
+
+</div>
+
+```
+✅  Understand concepts, don't just memorize syntax
+✅  Write code I can still read three months later
+✅  Accept that confusion is part of the process
+✅  Document progress — even the messy parts
+✅  Improve incrementally — don't wait until I feel "ready"
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&title_color=4f35e8&icon_color=4f35e8&border_radius=12" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&title_color=4f35e8&border_radius=12" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&ring=4f35e8&fire=4f35e8&currStreakLabel=4f35e8&border_radius=12" height="165"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6"/>
+
+</div>
+
+---
+
+## 📁 Projects
+
+<div align="center">
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| *Coming soon* | More public work on the way | — | 🔜 |
+
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-youremail@gmail.com-4f35e8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 </div>
 
@@ -126,6 +186,6 @@ I believe in:
 
 <div align="center">
 
-*Still learning. Still building. Getting better at both.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4f35e8&height=120&section=footer&text=Still+learning.+Still+building.&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
