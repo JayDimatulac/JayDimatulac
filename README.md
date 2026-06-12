@@ -1,22 +1,15 @@
 <div align="center">
 
-```
- ____  _  ___  _  _     _       _
-|    || |/   || || |   | |     | |
-|    || ||   || || |   | |     | |
-|  __|| ||___|| || |___| |___  | |___
-|_|   |_|\___||_||_____|_____| |_____|
-```
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&duration=3000&pause=1000&color=4f35e8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jay.;Computer+Science+Student.;Building+things+to+understand+them." alt="Typing SVG" />
 
-### Jay
-**Computer Science Student · Full-Stack Developer in Progress**
+### Computer Science Student · Full-Stack Developer in Progress
 
 *Building things to understand them. Improving every day.*
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/JayDimatulac?label=Followers&style=flat-square&color=4f35e8&labelColor=0d0d0d)](https://github.com/yourusername)
-[![Profile views](https://komarev.com/ghpvc/?username=JayDimatulac&style=flat-square&color=4f35e8&label=Profile+Views)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/JayDimatulac?label=Followers&style=flat-square&color=4f35e8&labelColor=0d0d0d)](https://github.com/JayDimatulac)
+[![Profile views](https://komarev.com/ghpvc/?username=JayDimatulac&style=flat-square&color=4f35e8&label=Profile+Views)](https://github.com/JayDimatulac)
 
 </div>
 
@@ -36,63 +29,7 @@ Focus     →  Full-Stack · Backend · AI Integration
 Status    →  Building, studying, and breaking things intentionally
 ```
 
----
 
-## SKILLabUs — Current Project
-
-> *"Beyond the SKILLabUS."*
-
-**SKILLabUs** is an AI-powered educational platform I'm building as part of my learning journey — a hands-on way to explore software engineering, backend development, AI integration, and modern application design all at once.
-
-It's both a portfolio project and a real exercise in building something with genuine structure and purpose.
-
-<details>
-<summary><strong>What's currently implemented</strong></summary>
-
-<br>
-
-- JWT authentication with refresh tokens
-- Role-based access: Student, Instructor, Admin
-- Student and Admin dashboards
-- Course management system
-- Backend REST API (Clean Architecture, .NET 10)
-- PostgreSQL database with EF Core
-- React + TypeScript frontend with Tailwind CSS and shadcn/ui
-- Zustand state management
-- AI assistant **Gus** (integrated, actively expanding)
-
-</details>
-
-<details>
-<summary><strong>Features in progress</strong></summary>
-
-<br>
-
-- Skill-based learning system with XP and mastery tracking
-- Learning roadmaps tied to skill progression
-- Instructor dashboard
-- Extended AI capabilities for Gus (skill gap analysis, study planning, personalized recommendations)
-
-</details>
-
-<details>
-<summary><strong>Future goals for the project</strong></summary>
-
-<br>
-
-- Fully personalized learning paths
-- Progress analytics and reporting
-- Public deployment (Railway · Vercel · Supabase)
-
-</details>
-
-**Stack:**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
 
