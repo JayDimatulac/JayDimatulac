@@ -166,6 +166,10 @@ const jay = {
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
+| Sip Happens | A java console cafe system that serves mood-based drink recommendations | — | Completed |
+| FundForest | A community support tracker | — | Completed |
+| SKILLabUS | comming soon | — | In Progress |
+| Prism | comming soon | — | 🔜 |
 | *Coming soon* | More public work on the way | — | 🔜 |
 
 </div>
