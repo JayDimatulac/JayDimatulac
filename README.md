@@ -145,16 +145,16 @@ const jay = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&title_color=4f35e8&icon_color=4f35e8&border_radius=12" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&title_color=4f35e8&border_radius=12" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JayDimatulac&show_icons=true&theme=tokyonight&hide_border=true&title_color=4f35e8&icon_color=4f35e8&border_radius=12" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayDimatulac&layout=compact&theme=tokyonight&hide_border=true&title_color=4f35e8&border_radius=12" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&ring=4f35e8&fire=4f35e8&currStreakLabel=4f35e8&border_radius=12" height="165"/>
+<img src="https://streak-stats.demolab.com?user=JayDimatulac&theme=tokyonight&hide_border=true&ring=4f35e8&fire=4f35e8&currStreakLabel=4f35e8&border_radius=12" height="165"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JayDimatulac&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6"/>
 
 </div>
 
