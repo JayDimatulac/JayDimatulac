@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4f35e8&height=200&section=header&text=Hey,%20I'm%20Jay%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20·%20Builder%20·%20Lifelong%20Learner&descAlignY=58&descSize=18&descColor=d4cfff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4f35e8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+Progress+🚀;Backend+%26+AI+Enthusiast+🤖;Building+things+to+understand+them+🔨;One+commit+at+a+time+📦)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4f35e8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+Progress+🚀;FutureBackend+%26+AI+Enthusiast+🤖;Building+things+to+understand+them+🔨;One+commit+at+a+time+📦)](https://git.io/typing-svg)
 
 <br/>
 
