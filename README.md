@@ -15,8 +15,8 @@
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square&color=4f35e8&labelColor=0d0d0d)](https://github.com/yourusername)
-[![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=4f35e8&label=Profile+Views)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/JayDimatulac?label=Followers&style=flat-square&color=4f35e8&labelColor=0d0d0d)](https://github.com/yourusername)
+[![Profile views](https://komarev.com/ghpvc/?username=JayDimatulac&style=flat-square&color=4f35e8&label=Profile+Views)](https://github.com/yourusername)
 
 </div>
 
