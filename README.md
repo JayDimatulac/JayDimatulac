@@ -1,189 +1,194 @@
 <div align="center">
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C6FF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jay.+CS+Student+%26+Builder.;Building+SKILLabUs+%2F%2F+AI-powered+EdTech;Learning+by+doing.+One+commit+at+a+time.;Full-Stack+%7C+Backend+%7C+AI+Integration" alt="Typing SVG" />
+```
+ ____  _  ___  _  _     _       _
+|    || |/   || || |   | |     | |
+|    || ||   || || |   | |     | |
+|  __|| ||___|| || |___| |___  | |___
+|_|   |_|\___||_||_____|_____| |_____|
+```
 
-<br/>
+### Jay
+**Computer Science Student · Full-Stack Developer in Progress**
 
-<!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=JayDimatulac&color=7c6ff7&style=flat-square&label=profile+views" alt="Profile Views" />
+*Building things to understand them. Improving every day.*
+
+---
+
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square&color=4f35e8&labelColor=0d0d0d)](https://github.com/yourusername)
+[![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=4f35e8&label=Profile+Views)](https://github.com/yourusername)
 
 </div>
 
 ---
 
+## About Me
+
+I'm a third-year Computer Science student at Batangas State University, currently on semester break and spending most of it writing code.
+
+I don't claim expertise. What I do have is genuine curiosity, a tolerance for debugging things until they make sense, and a habit of learning best by building things that actually work.
+
+Right now I'm focused on full-stack development and AI integration — specifically through a project called **SKILLabUs**, which has taught me more about software engineering in practice than any textbook.
+
 ```
-> whoami
+Location  →  Philippines
+Focus     →  Full-Stack · Backend · AI Integration
+Status    →  Building, studying, and breaking things intentionally
 ```
-
-**John Joseph Dimatulac** · goes by **Jay** · CS student from the Philippines
-
-I'm a Computer Science student who learns by building things. I don't claim to know everything — I'm still figuring it out, making mistakes, and getting better one project at a time.
-
-What drives me: writing code that actually does something useful, understanding *why* things work instead of just copying what does, and building projects that I'd genuinely want to use.
-
-**Interested in:**
-`Software Engineering` `Full-Stack Development` `Backend Systems` `AI Integration` `Educational Technology` `Clean Code` `System Design` `UI/UX Design`
 
 ---
 
-```
-> philosophy.md
-```
+## SKILLabUs — Current Project
 
-- I learn by building, not just reading
-- Feedback is how I improve — I'd rather hear what's wrong than stay comfortable
-- Clean, readable code matters as much as code that works
-- Understanding concepts beats memorizing syntax
-- Progress compounds — small improvements every day add up
-- Building something real beats building something perfect
+> *"Beyond the SKILLabUS."*
+
+**SKILLabUs** is an AI-powered educational platform I'm building as part of my learning journey — a hands-on way to explore software engineering, backend development, AI integration, and modern application design all at once.
+
+It's both a portfolio project and a real exercise in building something with genuine structure and purpose.
+
+<details>
+<summary><strong>What's currently implemented</strong></summary>
+
+<br>
+
+- JWT authentication with refresh tokens
+- Role-based access: Student, Instructor, Admin
+- Student and Admin dashboards
+- Course management system
+- Backend REST API (Clean Architecture, .NET 10)
+- PostgreSQL database with EF Core
+- React + TypeScript frontend with Tailwind CSS and shadcn/ui
+- Zustand state management
+- AI assistant **Gus** (integrated, actively expanding)
+
+</details>
+
+<details>
+<summary><strong>Features in progress</strong></summary>
+
+<br>
+
+- Skill-based learning system with XP and mastery tracking
+- Learning roadmaps tied to skill progression
+- Instructor dashboard
+- Extended AI capabilities for Gus (skill gap analysis, study planning, personalized recommendations)
+
+</details>
+
+<details>
+<summary><strong>Future goals for the project</strong></summary>
+
+<br>
+
+- Fully personalized learning paths
+- Progress analytics and reporting
+- Public deployment (Railway · Vercel · Supabase)
+
+</details>
+
+**Stack:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
 
-```
-> current_project: SKILLabUs
-```
+## Currently Learning
 
-> *"An AI-powered educational platform I'm building as part of my learning journey — exploring software engineering, backend development, AI integration, and modern application design."*
+These are subjects I'm actively studying — not claiming to have mastered.
 
-**Status:** 🔨 Actively in development &nbsp;|&nbsp; **Type:** Personal capstone & portfolio project
-
-| Feature | Status |
+| Category | Topics |
 |---|---|
-| Student dashboard | ✅ Implemented |
-| Instructor dashboard | ✅ Implemented |
-| Role-based access control | ✅ Implemented |
-| Backend REST APIs | ✅ Implemented |
-| Database design (PostgreSQL) | ✅ Implemented |
-| AI assistant — Gus | 🔄 In progress |
-| Progress & skill tracking | 🔄 In progress |
-| Gamification (XP, badges, streaks) | 🔄 In progress |
-| Learning roadmaps | 💡 Planned |
-| Personalized learning paths | 💡 Planned |
-| Skill gap analysis | 💡 Planned |
-
-> ✅ Implemented &nbsp;&nbsp; 🔄 In progress &nbsp;&nbsp; 💡 Planned
-
-**Stack:** React · TypeScript · .NET · C# · Clean Architecture · PostgreSQL · Entity Framework Core
+| **Languages** | C#, JavaScript, HTML, CSS, SQL |
+| **Frameworks & Tools** | ASP.NET Core, Entity Framework Core, React |
+| **Concepts** | REST APIs, Clean Architecture, CQRS, Database Design |
+| **Engineering** | System Analysis, UML, Git & GitHub, Software Engineering |
+| **Emerging** | AI Integration, UI/UX Design |
 
 ---
 
-```
-> tech_stack
-```
-
-**Languages**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
+## Interests
 
 ```
-> currently_learning
-```
-
-These are subjects I'm actively studying — not skills I've mastered:
-
-```
-// languages & runtimes
-C#  ·  JavaScript  ·  TypeScript  ·  HTML  ·  CSS  ·  SQL
-
-// frameworks & architecture
-ASP.NET Core  ·  Entity Framework Core  ·  REST APIs  ·  Clean Architecture
-
-// concepts & practices
-Software Engineering  ·  System Analysis  ·  UML  ·  Database Design
-AI Integration  ·  UI/UX Design  ·  Git & GitHub
+→  Backend Systems & API Design
+→  Full-Stack Web Development
+→  AI-assisted Software
+→  Educational Technology
+→  Clean Code & System Design
+→  Building tools with real-world utility
+→  Continuous improvement
 ```
 
 ---
 
-```
-> stats
-```
+## Goals
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JayDimatulac&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Jay's GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayDimatulac&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JayDimatulac&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JayDimatulac&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" />
-
-</div>
-
----
-
-```
-> goals.md
-```
-
-**Short term**
-- [ ] Improve day-to-day programming skills through consistent practice
-- [ ] Complete SKILLabUs to a portfolio-ready state
-- [ ] Learn modern backend development patterns deeply
-- [ ] Build a strong, honest GitHub portfolio
-- [ ] Get comfortable with system design fundamentals
+**Right now**
+- Finish and polish SKILLabUs
+- Deepen backend development knowledge
+- Build a portfolio that reflects real work
+- Get more comfortable with system design
 
 **Long term**
-- [ ] Become a capable, well-rounded software engineer
-- [ ] Contribute to projects that have real-world impact
-- [ ] Keep learning throughout my career — not just at the start of it
-- [ ] Build applications that are genuinely useful to people
+- Become a capable, employable software engineer
+- Contribute to meaningful projects
+- Keep learning — this career never stops changing
 
 ---
 
-```
-> contribution_graph
-```
+## Learning Philosophy
+
+I learn by building things, breaking them, and figuring out why.
+
+I believe in:
+- Understanding concepts rather than memorizing syntax
+- Writing code I can read again in three months
+- Accepting that confusion is part of the process
+- Documenting progress, even the messy parts
+- Improving incrementally — not waiting until I feel "ready"
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayDimatulac/JayDimatulac/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayDimatulac/JayDimatulac/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JayDimatulac/JayDimatulac/output/github-contribution-grid-snake.svg">
-</picture>
+![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&title_color=4f35e8&icon_color=4f35e8&text_color=ffffff&bg_color=0d0d0d)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true&title_color=4f35e8&text_color=ffffff&bg_color=0d0d0d)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=transparent&hide_border=true&ring=4f35e8&fire=4f35e8&currStreakLabel=4f35e8)
 
 </div>
 
 ---
 
-```
-> connect
-```
+## Projects
+
+| Project | Description | Status |
+|---|---|---|
+| [SKILLabUs](https://github.com/yourusername/skillabus) | AI-powered Learning Management System | 🔨 In Development |
+| *More coming soon* | | |
+
+---
+
+## Contact
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-JayDimatulac-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayDimatulac)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-youremail@gmail.com-4f35e8?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
 
 </div>
 
 ---
 
 <div align="center">
-<sub><code>// still learning. still building. still improving.</code></sub>
+
+*Still learning. Still building. Getting better at both.*
+
 </div>
