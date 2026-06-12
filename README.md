@@ -6,8 +6,8 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=4f35e8&labelColor=1a1a2e&logo=github)](https://github.com/yourusername)
-[![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=4f35e8&label=Profile+Views&labelColor=1a1a2e)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/JayDimatulac?label=Followers&style=for-the-badge&color=4f35e8&labelColor=1a1a2e&logo=github)](https://github.com/JayDimatulac)
+[![Profile views](https://komarev.com/ghpvc/?username=JayDimatulac&style=for-the-badge&color=4f35e8&label=Profile+Views&labelColor=1a1a2e)](https://github.com/JayDimatulac)
 
 </div>
 
