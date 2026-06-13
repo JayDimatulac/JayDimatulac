@@ -96,33 +96,6 @@ const jay = {
 
 ---
 
-## 🎯 Goals
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ Right Now
-- 📦 Build a portfolio that reflects real work
-- 🧠 Deepen backend development knowledge
-- 🏗️ Get more comfortable with system design
-- 📘 Strengthen fundamentals, not just ship code
-
-</td>
-<td width="50%">
-
-### 🌱 Long Term
-- 💼 Become a capable, employable software engineer
-- 🤝 Contribute to meaningful projects
-- 🚀 Build useful applications that help people
-- 📖 Keep learning — this field never stops changing
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🧠 Learning Philosophy
 
 <div align="center">
